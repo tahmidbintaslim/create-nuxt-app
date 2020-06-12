@@ -19,7 +19,7 @@
     "@nuxtjs/eslint-config": "^3.0.0",
     "ava": "^3.8.2",
     "eslint": "^7.2.0",
-    "lerna": "^3.22.0",
+    "lerna": "^3.22.1",
     "stylelint": "^13.6.0",
     "stylelint-config-standard": "^20.0.0"
   },
